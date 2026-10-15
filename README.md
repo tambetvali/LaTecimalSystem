@@ -1,3 +1,7 @@
+![LaTecimal System](LaTecimalSystem.png)
+
+<br>
+
 # LaTecimalSystem
 LaTec: Laegna Tecimal System
 
