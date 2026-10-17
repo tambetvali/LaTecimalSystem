@@ -1,3 +1,7 @@
+![LaTecimal Within](Gfx/LaTecWithin.png)
+
+<br>
+
 CoPilot's intro:
 
 # Decimal System within Laegna System
