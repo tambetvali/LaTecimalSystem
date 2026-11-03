@@ -1,5 +1,7 @@
 # Ranked decimal numbers are needed to convey the complex physical and imaginary landscape of Laegna
 
+> this is 1 planck unit, 1 light year horizon, 40 000 km circumference of earth, 16 b ly fatal horizon - I see this ranked growth where those two ranks work in parallel, which is basin for most linearized systems I need for physics. I see same basin in different scopes, such as even money and civilization - 16 b of something is high rank compared to 40 000, and 20 or 1 come naturally downwards.
+
 ## Growth factors
 
 Let's consider various growth factors.
