@@ -1,3 +1,9 @@
+![Ranked Decimal](Docs/Gfx/RankedTesimal.png)
+
+<br>
+
+***Notice: holographically we measure positions, focus, structures etc. in curvature shape, not actual distance - otherwise we are bound inside infinities. We fractally zoom the curvatures into consistent modes, and use octaves for repetition of initial image over various scales and degrees. I literally mean internal, external, and linear projections (internal to astro, external to quantum, is possible measure for pair of R, T and T, R => Z, X, Y).***
+
 # Ranked decimal numbers are needed to convey the complex physical and imaginary landscape of Laegna
 
 > this is 1 planck unit, 1 light year horizon, 40 000 km circumference of earth, 16 b ly fatal horizon - I see this ranked growth where those two ranks work in parallel, which is basin for most linearized systems I need for physics. I see same basin in different scopes, such as even money and civilization - 16 b of something is high rank compared to 40 000, and 20 or 1 come naturally downwards.
@@ -962,3 +968,7 @@ It is to establish a common ranked representation that allows different systems 
 **Magnitude tells us how much. Rank tells us where in the growth structure. Precision tells us how closely we resolve it. Dimensional coordinates tell us what kind of quantity we are representing.**
 
 Together, these provide the foundation for a reusable numerical language across different scales and domains.
+
+<br>
+
+![Detail Ranked Decimal](Docs/Gfx/DetailRankedTesimal.png)
